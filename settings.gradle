@@ -1,0 +1,2 @@
+rootProject.name = 'java-scala3-scalatest'
+include('app')
